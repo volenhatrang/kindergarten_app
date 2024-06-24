@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="dark_blue">#32357a</color>
+    <color name="light_blue">#f2f1f6</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+
+
+    <!--Shadow-->
+    <color name="shadow">#FCC0BAC0</color>
+    <!-- Background-->
+    <color name="theme">#E1DAE1</color>
+
+    <!-- Calendar Background-->
+    <color name="calendar">#BE80C9</color>
+
+    <!-- Title in all session -->
+    <color name="title">#432C81</color>
+
+    <!-- Description in introductory session -->
+    <color name="description">#82799D</color>
+
+    <!-- Icon navigation -->
+    <color name="icon">#A095C1</color>
+    <color name="Exercises_Oval">#91559B</color>
+    <color name="colorBlue">#0000FF</color>
+    <color name="ic_selected">#432C81</color>
+
+    <color name="water">#0f5e9c</color>
+    <color name="gray">#808080</color>
+
+    <color name="colorPrimary">#174271</color>
+    <color name="colorPrimaryDark">#0E345C</color>
+    <color name="colorAccent">#FAAB1A</color>
+    <color name="colorLightPrimary">#2B5081</color>
+    <color name="red">#F22749</color>
+    <color name="textBold">#124181</color>
+    <color name="textNormal">#355989</color>
+    <color name="textLight">#8DA0C5</color>
+    <color name="textInDarkBG">#58748F</color>
+
+    <color name="buttonExitBG">#1D5A94</color>
+    <color name="greenButton">#D9EFC8</color>
+
+    <color name="textGreen">#5D942E</color>
+    <color name="borderYellow">#CCBB18</color>
+
+    <color name="agendacolor">#8E9097</color>
+    <color name="timecolor">#000</color>
+    <color name="schedulecolor">#000</color>
+    <color name="statementcolor">#778AA6</color>
+
+    <color name="colorOrange">#F68159</color>
+    <color name="colorLightGray">#a6abae</color>
+    <color name="colorGray">#495C67</color>
+    <color name="colorBackroundWhite">#f0f2ea</color>
+
+    <color name="colorPrimary1">#304049</color>
+    <color name="colorPrimary2">#4A6572</color>
+
+    <color name="textColor">#B4C1CC</color>
+</resources>
